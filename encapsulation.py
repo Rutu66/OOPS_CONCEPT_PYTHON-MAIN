@@ -19,7 +19,7 @@ class Address(Emp):
         print('New colony')
 
 # Objects
-em1 = Address('Abhi',20000)
+em1 = Address('Rutu',5000)
 
 # Call function using Objects
 em1.com()
